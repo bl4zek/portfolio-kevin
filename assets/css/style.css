@@ -117,7 +117,7 @@ section {
 
 .home__background {
     background-color: #8e8e8e;
-    background-image: url(../images/bghome.jpg);
+    background-image: url(/assets/images/bghome.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
